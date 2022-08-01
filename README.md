@@ -7,7 +7,7 @@ This framework was designed to automate swagger-petstore tests.
 - Install [JDK 8](https://www3.ntu.edu.sg/home/ehchua/programming/howto/JDK_Howto.html)
 - Install [Maven](https://maven.apache.org/install.html)
 - Install [Rest Assured](https://rest-assured.io/)
-- Set up the API playground and run it locally, follow the instructions in this [Readme](https://github.com/swagger-api/swagger-petstore)
+- Set up the API playground and run it locally, follow the instructions in this [Readme](https://github.com/jormel191/Rest-assured)
 
 ###### ¿How to download the repository?
 To clone this project, proceed as with any other repository.
